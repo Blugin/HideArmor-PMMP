@@ -1,0 +1,13 @@
+---
+name: HideArmor
+main: kim\present\hidearmor\HideArmor
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+author: PresentKim
+description: Hide your armor!
+
+permissions:
+  hidearmor.cmd:
+    description: HideArmor main command
+    default: op
+...
